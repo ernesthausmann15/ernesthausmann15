@@ -1,23 +1,43 @@
+
 Hi 👋 My name is Ernest Hausmann
 ================================
 
-Full Stack Developer
---------------------
+AI Engineer & Full-Stack Developer
+----------------------------------
 
-I am a Full Stack Developer focused on building clean, secure, and reliable web applications from the database up to the user interface.
+I am an AI Engineer focused on bridging the gap between cutting-edge Large Language Models and production-ready applications. My work centers on building intelligent, reliable systems—from designing robust backend data pipelines and type-safe architectures to integrating seamless AI-driven natural language processing into the user interface.
 
-My approach to engineering is rooted in strong fundamentals. I care deeply about writing predictable, maintainable code and building systems that handle data safely and efficiently. Whether I am architecting backend logic, designing relational data models, or securing APIs against vulnerabilities, my goal is always to create robust software that users can depend on.
 
-\* \*\*Full-Stack Capability:\*\* Bridging modern frontend interfaces with powerful, scalable backend services.
 
-\* \*\*Security & Best Practices:\*\* Prioritizing data protection, secure authentication, and resilient error handling from day one.
+I believe that great AI engineering requires strong software fundamentals: writing clean code, structuring reliable API routes, ensuring strict type-safety, and handling real-world edge cases so intelligent features feel fast and dependable.
 
-\* \*\*Problem Solving:\*\* Enjoying the challenge of turning complex, real-world requirements into clean, structured, and efficient solutions.
 
-I love continuous learning and am always excited to collaborate on meaningful projects that solve real problems.
+
+AI & LLM Integration: Architecting intelligent features like natural language command parsing, prompt orchestration, and shared backend AI utility modules.
+
+
+
+Full-Stack Architecture: Connecting AI models seamlessly with scalable relational databases (Supabase/PostgreSQL), Next.js, and modern TypeScript frontends.
+
+
+
+System Reliability: Prioritizing strict type safety from database schema to UI components, secure API design, and resilient error handling for AI workflows.
+
+
+
+🚀 Featured Project: AI-Powered Flash Sale Inventory Dashboard
+
+The Stack: Next.js (App Router), TypeScript, Supabase, Tailwind CSS, and modular AI utility integration.
+
+What it does: An intelligent flash sale dashboard where users can manage inventory and execute commands using natural language. The system parses unstructured commands via AI, syncs data in real-time, and maintains strict type safety across the entire stack.
+
+
+
+I love continuous learning and am always excited to build and collaborate on AI-driven systems that solve real-world problems.
 
 * 🌍  I'm based in Nebraska
 * ✉️  You can contact me at [ernesthausmann15@gmail.com](mailto:ernesthausmann15@gmail.com)
+* 🚀  I'm currently working on [flash-sales-app](http://flash-sale-app-neon.vercel.app/)
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="Redux" title="Redux" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://fedoraproject.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fedora-colored.svg" alt="Fedora" title="Fedora" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a>
