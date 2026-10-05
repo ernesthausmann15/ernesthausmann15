@@ -25,11 +25,11 @@ System Reliability: Prioritizing strict type safety from database schema to UI c
 
 
 
-🚀 Featured Project: AI-Powered Flash Sale Inventory Dashboard
+🚀 Featured Project: Vrymnox (AI-Powered Liquidation & Flash Sale Engine)
 
-The Stack: Next.js (App Router), TypeScript, Supabase, Tailwind CSS, and modular AI utility integration.
+The Stack: FastAPI, SQLAlchemy, PostgreSQL, Next.js 16 (App Router), TypeScript, Tailwind CSS v4, and modular AI utility integration.
 
-What it does: An intelligent flash sale dashboard where users can manage inventory and execute commands using natural language. The system parses unstructured commands via AI, syncs data in real-time, and maintains strict type safety across the entire stack.
+What it does: An industrial-grade clearance storefront and manager control center featuring atomic database transactions that eliminate race conditions under heavy concurrency. Integrated with secure double-submit CSRF protection, strict RBAC permissions, and an AI-driven command assistant for inventory tracking and rapid stock adjustments.
 
 
 
