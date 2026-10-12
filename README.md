@@ -25,11 +25,11 @@ System Reliability: Prioritizing strict type safety from database schema to UI c
 
 
 
-🚀 Featured Project: Vrymnox (AI-Powered Liquidation & Flash Sale Engine)
+🚀 **Featured Project: Liquidation Hub (High-Concurrency E-Commerce & Flash Sale Engine)**
 
-The Stack: FastAPI, SQLAlchemy, PostgreSQL, Next.js 16 (App Router), TypeScript, Tailwind CSS v4, and modular AI utility integration.
+**The Stack:** Next.js (App Router), TypeScript, Tailwind CSS, Node.js, Express, PostgreSQL, and Render Blueprint CI/CD.
 
-What it does: An industrial-grade clearance storefront and manager control center featuring atomic database transactions that eliminate race conditions under heavy concurrency. Integrated with secure double-submit CSRF protection, strict RBAC permissions, and an AI-driven command assistant for inventory tracking and rapid stock adjustments.
+**What it does:** A production-ready clearance storefront and inventory management center built to simulate high-stakes flash sales. Features an event-driven real-time order & activity stream engine, zero-credential recruiter demo modes, atomic database transactions to eliminate race conditions under heavy traffic, double-submit CSRF protection, and strict RBAC controls.
 
 
 
